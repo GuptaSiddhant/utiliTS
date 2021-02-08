@@ -1,0 +1,20 @@
+{
+  "name": "utilits",
+  "version": "0.0.1",
+  "description": "TS Utilities",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "module": "src/index.ts",
+  "scripts": {
+    "watch": "tsc --noEmit --watch"
+  },
+  "keywords": [
+    "Typescript"
+  ],
+  "author": "Siddhant Gupta",
+  "repository": "guptasiddhant/utilits",
+  "license": "MIT",
+  "files": [
+    "src"
+  ]
+}
